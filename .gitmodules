@@ -1,0 +1,3 @@
+[submodule "fillets"]
+	path = fillets
+	url = git@github.com:jesusabdullah/openscad-fillets.git
